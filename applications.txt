@@ -1,0 +1,132 @@
+Other options:
+- LinkedIn
+- PrimeIntellect
+
+Companies:
+- Google (Erik)
+- Meta
+- OpenAI (london)
+- DeepMind
+- HuggingFace
+- Matthijs Damen, Avy, Haarlem, Netherlands (Head of Tech, DC5 – Calm Drones)
+
+Open PhD applications:
+Application 1
+Location: Glasgow, UK
+Deadline: 9th january (expired)
+Actions: Slack Tiffany Vlaar = X, email r.mccrea@lancaster.ac.uk = X
+Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints
+Tiffany Vlaar
+https://www.exageo.org/phd-student-projects/
+
+Application 2 - COMPLETED
+Location: Wyoming, USA
+Intersection of computer vision and wildlife
+Deadline: 23th januari
+https://kogerlab.com/post/positions/apply 
+https://forms.gle/Xqrge1zhLFLdrWDq5
+
+Application 3
+Location: Umeå, Sweden
+PhD position in bioacoustics, statistics, and AI for forest biodiversity
+https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand5/
+
+XXX CV (max 3 pages, Arial or Times New Roman, min size 11) with:
+  Education, Work experience, Research interests, Awards, Publications, Presentations and conferences, Software and computing skills, Languages
+XXX Contact details for at least 2 references
+XXX Motivation letter (max 2 pages, Arial or Times New Roman, min size 11) explaining your qualifications and interest in the PhD project.
+XXX Degree certificates and transcripts from all previous first- and second-cycle studies.
+XXX - References: Contact information for at least two personal references.
+XXX Proof of English proficiency (if applicable, per SLU requirements).
+XXX For interview stage only: Attested copies of certificates, transcripts, and, if not Swedish, passport photo page.
+
+  ADD TO LINKEDIN
+
+# Known contacts:
+- Devis Tuia, devis.tuia@epfl.ch, EPFL, Switzerland, 
+  - Kellenberg, b.kellenberger@ucl.ac.uk, London
+  - Malte Pedersen -> https://www.vacancies.aau.dk/phd-positions 
+    - Trento, Fabio Remondino remondino@fbk.eu
+    - Lukas Picek
+    - Sara Beery
+    - Gert-Kootstra
+    - Helena Russeloo
+- Fabio Poiesi, poiesi@fbk.eu (https://tev.fbk.eu/)
+
+
+# WildDrone contacts:
+  - WildDrone, WildDrone@sdu.dk 
+- Anders Lyhne Christensen, andc@mmmi.sdu.dk, University of Southern Denmark (Professor, DC6 – Automated Planning)
+  - Andrea Flack, aflack@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Group Leader, DC2 – Migration Analysis & DC8 – Detailed Census)
+- Andrea Micheli, amicheli@fbk.eu, Bruno Kessler Foundation, Italy (Researcher, DC9 – Individual Characteristics)
+- Benjamin Risse, b.risse@uni-muenster.de, University of Münster, Germany (Professor, DC9 – Individual Characteristics & DC10 – Habitat Reconstruction)
+- Blair Costelloe, blair.costelloe@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Postdoctoral Researcher, DC1 – Livestock-wildlife Interaction, DC3 – Predator-prey Response, DC4 – Coastal Monitoring, DC11 – Interactive Census)
+  - Henrik Skov Midtiby, hemi@mmmi.sdu.dk, University of Southern Denmark (Associate Professor, DC8 – Real-Time Census)
+  - Magnus Wahlberg, Magnus@biology.sdu.dk, University of Southern Denmark (Associate Professor, DC4 – Coastal Monitoring & DC8 – Detailed Census)
+  - Majid Mirmehdi, M.Mirmehdi@cs.bris.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking)
+  - Martin Wikelski, sknopf@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Professor, DC1 – Livestock-wildlife Interaction)
+  - Tilo Burghardt, tilo@cs.bris.ac.uk, University of Bristol, UK (Senior Lecturer, DC12 – Adaptive Tracking)
+  - Tom Richardson, Thomas.Richardson@bristol.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking & DC13 – Parasitic Drones)
+  - Ulrik Pagh Schultz Lundquist, ups@mmmi.sdu.dk, University of Southern Denmark (Professor, DC3 – Predator-prey Response, DC5 – Calm Drones, DC6 – Automated Planning, DC7 – Flexible Deployment)
+
+ 
+# Contacts from overview_academic_labs.XLSX
+  - Toke Høye, tth@ecos.au.dk, Aarhus University, Denmark, https://sites.google.com/site/hoyelab/, Image-based tools for identifying and monitoring insects and flowers and biotic interactions between them with the use of computer vision and deep learning. A lot of work in the Arctic.
+  - Jan Dirk Wegner, jandirk.wegner@uzh.ch, ETH/U Zurich, https://prs.igp.ethz.ch/ecovision.html, urban forests, remote sensing
+    Just keep track of job postings on the UZH Job portal and our EcoVision Lab website
+    - https://www.uzh.ch/en/explore/work/jobs.html
+    - EcoVision dm3l lab page (seems not to work) they mention have a grant. 
+  - Karen Joyce, karen.joyce@jcu.edu.au, James Cook University,  https://research.jcu.edu.au/portfolio/karen.joyce/, Remote sensing, aerial (UAV) monitoring, counting sea cucumbers & other indicators of oceanic/coastal  environments for temporal ecosystem surveys
+  - Michael Black, black@tuebingen.mpg.de, MPI/Tubingen, Animal modeling in 3D, pose, https://ps.is.mpg.de/~black
+  - Andrew Zisserman, andrew.zisserman@eng.ox.ac.uk, Oxford, multimodal behavior categorization, re-identification, https://www.robots.ox.ac.uk/~vgg/index.html
+  - Serge Belongie, s.belongie@di.ku.dk, U Copenhagen, Fine-grained categorization, AR/VR, https://twitter.com/belongielab
+  - Enrico Di Minin, enrico.di.minin@helsinki.fi, U Helsinki, Machine Learning to analyse wildlife trade, people-nature interactions and other conservation issues, https://www2.helsinki.fi/en/researchgroups/helsinki-lab-of-interdisciplinary-conservation-science/research
+  - Joachim Denzler, joachim.denzler@uni-jena.de, U Jena Germany, Species identification and individual re-identification in images, https://www.inf-cv.uni-jena.de/denzler#cv-ml
+  - Benno Simmons, B.Simmons2@exeter.ac.uk, University of Exeter England, https://www.bennosimmons.com/ Computer vision for camera traps, ecological networks, remote sensing (e.g. forecasting deforestation from satellite imagery), movement ecology, bioacoustic monitoring, general large data ecology/conservation things 
+  - emmanuel dufourq, Machine learning research for conservation ecology http://emmanueldufourq.com/wp/, University of Northern Iowa, https://chas.uni.edu/directory/emmanuel-dufourq#emailDirectory 
+  - Frank Schindler, f.schindler@imperial.ac.uk, University of Bonn, schindl@cs.uni-bonn.de 
+  - Dan Stowell, D.Stowell@tilburguniversity.edu, Associate Professor of AI & Biodiversity http://www.mcld.co.uk/research/, https://www.tilburguniversity.edu/staff/d-stowell 
+
+
+
+
+
+Linkedin message for remote job:
+
+
+
+Extra notes:
+- before meeting:
+  - increase cursor size (settings-> accessibility). 
+  - drag pop up to side to see audience
+  - "Wifi can be unstable but if it happens I should be back in a minute. Also, if you can't hear me, please raise your hand or say somthing."
+- YouthBoard begin and end year. 
+- Practice the start
+  - Write out. 
+- Ambitions:
+ -write out 3 looking and 3 bring. 
+ -practice this job
+ -link to the job
+
+Papers:
+
+
+https://www.findaphd.com/phds/project/ai-integrated-network-ecosystem-models-for-predicting-biodiversity-change/?p192305
+
+
+
+########### Opportunities ############
+# WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on second round. 
+
+# PhD Sweden Umeå
+
+# PhD Ben Koger Wyoming
+- read wildlife papers:
+  - file:///home/jorrit/Downloads/frobt-12-1695319.pdf # WildDrone
+  - https://scholar.google.com/citations?user=auNWHhUAAAAJ&hl=en # his Scholar profile
+- https://migrationinitiative.org/ (some more cool videos)
+
+
+# 17 feb - Zoom with Benjamin Risse :
+https://isprs-archives.copernicus.org/articles/XLVIII-2-2024/379/2024/isprs-archives-XLVIII-2-2024-379-2024.pdf
+

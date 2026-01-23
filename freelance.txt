@@ -1,0 +1,91 @@
+AI FREELANCE PROJECT – END-TO-END CHECKLIST
+(Project example: Defect detection from 2,000 product images)
+
+========================================
+0. FREELANCE SETUP (ONCE PER CLIENT)
+[ ] Client contact + NDA signed (if needed)
+[ ] Scope defined (what is included / excluded)
+[ ] Success metric agreed (e.g. F1 ≥ 0.90, latency < 200 ms)
+[ ] Delivery format agreed (API / script / UI)
+[ ] Price + payment terms agreed
+[ ] Access to data granted
+
+========================================
+1. PROBLEM DEFINITION
+[ ] Define task type (classification / detection / segmentation)
+[ ] Define inputs (image type, resolution, format)
+[ ] Define outputs (labels, bounding boxes, confidence)
+[ ] Define constraints (latency, hardware, cloud/on-prem)
+[ ] Define evaluation metrics
+
+========================================
+2. DATA AUDIT
+[ ] Count samples per class
+[ ] Check label quality
+[ ] Identify class imbalance
+[ ] Identify edge cases (lighting, occlusion, blur)
+[ ] Split train / val / test
+[ ] Decide on data augmentation
+[ ] Decide Go / No-Go feasibility
+
+========================================
+3. BASELINE MODEL (FAST)
+[ ] Choose baseline architecture
+[ ] Train baseline model
+[ ] Log metrics
+[ ] Run inference on validation set
+[ ] Perform error analysis
+[ ] Identify biggest failure modes
+
+========================================
+4. ITERATION & IMPROVEMENT
+[ ] Improve data (cleaning / relabeling)
+[ ] Tune hyperparameters
+[ ] Try alternative architectures if needed
+[ ] Re-evaluate metrics
+[ ] Confirm target performance is met
+
+========================================
+5. PRODUCTION TRAINING PIPELINE
+[ ] Reproducible training script
+[ ] Config-based setup (no hardcoded values)
+[ ] Version model weights
+[ ] Version dataset
+[ ] Save final metrics & plots
+
+========================================
+6. INFERENCE & DEPLOYMENT
+[ ] Define inference interface
+[ ] Implement inference pipeline
+[ ] Optimize latency
+[ ] Package with Docker
+[ ] Expose API or batch interface
+[ ] Test on client-like data
+
+========================================
+7. VALIDATION & ACCEPTANCE
+[ ] Run final evaluation
+[ ] Validate against agreed metrics
+[ ] Client acceptance test
+[ ] Fix last issues if needed
+
+========================================
+8. DELIVERY & HANDOVER
+[ ] Model weights delivered
+[ ] Inference code delivered
+[ ] README written (setup, usage, limitations)
+[ ] Example inputs + outputs provided
+[ ] Retraining strategy explained
+
+========================================
+9. OPTIONAL EXTRAS
+[ ] Simple UI (React / dashboard)
+[ ] Monitoring & logging
+[ ] Model update plan
+[ ] Maintenance contract proposed
+
+========================================
+PROJECT STATUS
+Start date: __________
+Delivery date: _______
+Status: ☐ In progress ☐ Delivered ☐ Maintained
