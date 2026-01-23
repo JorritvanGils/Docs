@@ -70,8 +70,8 @@ alias N="python /media/jorrit/ssd/bittensor/remote_gpu/navigator.py"
 alias 38="python /media/jorrit/ssd/bittensor/remote_gpu/navigator.py 38"
 alias 3="python /media/jorrit/ssd/bittensor/remote_gpu/navigator.py 3"
 alias J='read -p "Docker action: [1] status, [2] start, [3] stop? " c; if [[ $c == 1 ]]; then sudo systemctl status docker; elif [[ $c == 2 ]]; then sudo systemctl start docker; elif [[ $c == 3 ]]; then sudo systemctl stop docker.socket docker.service; else echo "Invalid choice"; fi'
-alias V='source /media/jorrit/ssd/career/test_project/.venv/bin/activate'
+# alias V='source /media/jorrit/ssd/career/test_project/.venv/bin/activate'
 
 Z() {
-    grep -E '^alias (S|B|N|J|V)=' "/media/jorrit/ssd/bittensor/remote_gpu/bashrc_extension.sh"
+    grep -E '^alias (S|B|N|J)=' "/media/jorrit/ssd/bittensor/remote_gpu/bashrc_extension.sh"
 }
