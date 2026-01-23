@@ -1,0 +1,15 @@
+
+# UV
+sudo snap install astral-uv --classic
+touch requirements.uv, add 'pandas'
+# uv init
+uv init --python=python3.10
+uv venv
+uv pip install -r requirements.uv
+
+uv run python main.py
+
+
+
+
+# JustFile
