@@ -116,17 +116,52 @@ https://www.findaphd.com/phds/project/ai-integrated-network-ecosystem-models-for
 
 
 ########### Opportunities ############
-# WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on second round. 
-
 # PhD Sweden Umeå
 
 # PhD Ben Koger Wyoming
 - read wildlife papers:
-  - file:///home/jorrit/Downloads/frobt-12-1695319.pdf # WildDrone
+  - https://www.readcube.com/articles/10.3389/frobt.2025.1695319 # WildDrone
   - https://scholar.google.com/citations?user=auNWHhUAAAAJ&hl=en # his Scholar profile
 - https://migrationinitiative.org/ (some more cool videos)
-
+https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/wsb.1533
+https://arxiv.org/pdf/2206.00274
+https://www.sciencedirect.com/science/article/pii/S1574954125003966?via%3Dihub
+https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.13904 # his most cited paper
 
 # 17 feb - Zoom with Benjamin Risse :
-https://isprs-archives.copernicus.org/articles/XLVIII-2-2024/379/2024/isprs-archives-XLVIII-2-2024-379-2024.pdf
+https://isprs-archives.copernicus.org/articles/XLVIII-2-2024/379/2024/isprs-archives-XLVIII-2-2024-379-2024.pdf # 3D Poses Animals
+he is actually mention in WildDrone paper P16 (Risse et al., 2018), read again (https://www.readcube.com/articles/10.3389/frobt.2025.1695319)!
+file:///home/jorrit/Downloads/remotesensing-12-03886.pdf # got this one from WildDrones, but probably nice to read for this talk. 
+https://arxiv.org/pdf/2206.00274 # points better then yolo (from wilddrones)
+Photogrammetry
+https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.13298 # Estimating body mass of free‐living whales
+file:///home/jorrit/Downloads/remotesensing-12-03886.pdf
+
+# 26 - 27 - 28 - Joachim Denzler
+# 1 definetly read this one, you told you read it!!!
+https://pdf.sciencedirectassets.com/273474/1-s2.0-S1574954125X00029/1-s2.0-S1574954125004224/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDIaCXVzLWVhc3QtMSJHMEUCIHZgZ%2FhfSaeE8ObdeyRobqpThSi39J8PVvLS5DRN35uaAiEAwlrTgG7zWo0yC0J43g0oyltrzGiZeFqJBs5vsuCsg%2BwquwUI%2B%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDKeF5yfYn0RZr9CBhSqPBZIB8jCDmCd7rTFdKQkeDqG4N7T6rB%2B7jNOcOWWy5%2FUxvqSPlVxyD8sBxSVLZv5nX0L6Q8Xf6dcZREaxDlpsMbOlE0qOJkf16CtFVrhRJBpC%2BC8nnP09sK%2FyJgUxEaITMpPi%2B7ADk1xqXgnaucpWD30bwhUl%2FbimlpYHTmtcgqRDkWbeIFHoRINSvGl9yfnwQv3GV52xqP477flyJs6K5hJtJMLGJqqAlZ8Z1x9%2BHZIipqmLQOWM9Q%2B5f9%2BhVir7iJD3FCkPJIVy5sLvbRnWjk1HQkyLsc%2FynEdhtlhNGx%2Bxy3bTTDul6NWszcw4ogICqG7RrD24BUv601ajkWgt6JPw89cldnO6P%2FMETtTUZ4UO07vil7wtjR4g3lAHZaHq77v9VFBRDI%2BC8BrUpUy5n%2FtQ808WO8u7lfHIDgJF8QvsxhZkggoelP6OeJweNydJgeapVe1U4UQtzjER%2B5RYCrVoptR9372wiZjcfWW%2F3by1lXh7hBLMsF9uOGA3HKDgeyageN27mNnYrPKROjcZnGsNWdsQbDZgtSKYDVEeep86XmrDVI7zEF%2BkGC2cM8zPeu1wwb68SNtdcg2MoSZKlPO6isLVqfzgT%2Frke49bmWobwpXtQv65bgIirIg77g6lNStU9d9%2B8925uTfH7fPOz0PF7EuS7RfbMOrm9FCcmksVrThYVWaCcXD41fxJOy03JNrBrZR9f3XCAiRUm4ZYAfsjmOoKmQGlrMl7KufG2Ybc5oT2iQ6EfysHr214LRhBakJEqkS0eBRuY1ZifrZ%2FUms78QKKjMjRKUwhrlR3%2BsFw4UNe2hI613zKBWv6Ls6QEM5Cz4OlrGV9BJr8cjl%2FhYgd9EC0P1crUsjr6l2CvjQwourOywY6sQFxeWz2dD%2BgjhdoiUCe7RtxLngShIqjfDZ2YrUYtXq17orbGOmyKVazZpiSsYw%2FsdPxivFECOhkVAMXK4aZGrDe6D71BaZAr%2FxIBZ8ZQ2sd7ItmxrdMneRvJc9bVL1BNJGvmVprsl2RIuyq9Bi1TrBcsIv6%2FctfUityd0I8laH0c0pUriEi8chFQt5t4%2Fo4chACYVngQsZpQ6%2Fo%2BomqYasK6eT531ceTyfrkqbfVAGi6xI%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260123T190123Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYVNQ2DLN%2F20260123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=215396c18fb19ef37d5e15af47f75e7f8825649d9abce0fba159a7c3067d55b1&hash=95c74e9b2840a7b56f0813d14777a67de9e4ff9e31c8551165815f5a409e5915&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1574954125004224&tid=spdf-95f7689c-2da7-4642-a623-6c504202b65a&sid=58354b375ca9e041357b2736407426b4e52fgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=080a5d02515c590f545d&rr=9c298a1278cbd4d1&cc=nl
+
+Saccadic Vision for Fine-Grained Visual Classification
+https://arxiv.org/pdf/2509.15688
+Suggested gtp:
+Image classification with small datasets: Overview and benchmark (2022)
+Occlusion-robustness of CNNs via inverted cutout (2022)
+FastCAV: Efficient Concept Activation Vectors (2025)
+Mitigating Spurious Correlations in Patch-wise Tumor Classification (2025)
+
+What are the cooperation possibilities between groups at University in Jena. 
+How is Ellis program integrated in your research group?
+
+in 2021 I applied for the ELLIS PhD program 12 on computer vision, earth and climate science.
+
+
+read again into https://ellis.eu/
+
+
+
+
+
+
+# WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on second round. 
+
 
