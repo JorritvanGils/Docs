@@ -145,6 +145,8 @@ I saw in the paper that you used average prediction ensamble of EfficientNetV2  
 How did you know this was a optimal training range? Why didn't you test beyond this range? Eg. Train beyond 40 epochs?
 "Model architecture can be improved with more sophisticated loss functions" What loss function was used?
 
+I also saw in my thesis from 2022 that I cited your (Denzler) paper on: automated visual monitoring of individual gorillas (2017) and chimpanzees (2016) and elephants (2018)
+
 Future work: 
 Problem occlusion and phenology characteristics (flowering/scent) are often rare in data. Including a mask component via SAM might reveal these characteristics better. 
 "adapting amodal segmentation techniques (Zhan et al., 2020; Ling et al., 2020; Liu et al.,2024) to better handle occlusion.
