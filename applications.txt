@@ -138,41 +138,42 @@ https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.13298 # E
 file:///home/jorrit/Downloads/remotesensing-12-03886.pdf
 
 # 26 - 27 - 28 - Joachim Denzler
+I'm a machine learning engineer with 5 years hands on experience in deep learning, constantly seeking linking with academic knowledge.  
 
-I saw in my thesis from 2022 that I cited your (Denzler) paper on: automated visual monitoring of individual gorillas (2017) and chimpanzees (2016) and elephants (2018)
+### THESIS ###
+I cited your (Denzler) paper in my 2022 thesis on: automated visual monitoring of individual: chimpanzees (2016), gorillas (2017) and elephants (2018)
+### ELLIS ###
+in 2021 I applied for the ELLIS PhD program 12 on "computer vision, earth and climate science" How is Ellis program integrated in your research group?
+### Q1 ###
+What are the cooperation possibilities between (PhD) students and groups at University in Jena. 
+What qualities have you seen in successful PhD students in your group?
 
-What are the cooperation possibilities between groups at University in Jena. 
-in 2021 I applied for the ELLIS PhD program 12 on computer vision, earth and climate science.
-How is Ellis program integrated in your research group?
+#### P1 - PlantCAPNet ###
+https://pdf.sciencedirectassets.com/273474/1-s2.0-S1574954125X00029/1-s2.0-S1574954125004224/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDIaCXVzLWVhc3QtMSJHMEUCIHZgZ%2FhfSaeE8ObdeyRobqpThSi39J8PVvLS5DRN35uaAiEAwlrTgG7zWo0yC0J43g0oyltrzGiZeFqJBs5vsuCsg%2BwquwUI%2B%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDKeF5yfYn0RZr9CBhSqPBZIB8jCDmCd7rTFdKQkeDqG4N7T6rB%2B7jNOcOWWy5%2FUxvqSPlVxyD8sBxSVLZv5nX0L6Q8Xf6dcZREaxDlpsMbOlE0qOJkf16CtFVrhRJBpC%2BC8nnP09sK%2FyJgUxEaITMpPi%2B7ADk1xqXgnaucpWD30bwhUl%2FbimlpYHTmtcgqRDkWbeIFHoRINSvGl9yfnwQv3GV52xqP477flyJs6K5hJtJMLGJqqAlZ8Z1x9%2BHZIipqmLQOWM9Q%2B5f9%2BhVir7iJD3FCkPJIVy5sLvbRnWjk1HQkyLsc%2FynEdhtlhNGx%2Bxy3bTTDul6NWszcw4ogICqG7RrD24BUv601ajkWgt6JPw89cldnO6P%2FMETtTUZ4UO07vil7wtjR4g3lAHZaHq77v9VFBRDI%2BC8BrUpUy5n%2FtQ808WO8u7lfHIDgJF8QvsxhZkggoelP6OeJweNydJgeapVe1U4UQtzjER%2B5RYCrVoptR9372wiZjcfWW%2F3by1lXh7hBLMsF9uOGA3HKDgeyageN27mNnYrPKROjcZnGsNWdsQbDZgtSKYDVEeep86XmrDVI7zEF%2BkGC2cM8zPeu1wwb68SNtdcg2MoSZKlPO6isLVqfzgT%2Frke49bmWobwpXtQv65bgIirIg77g6lNStU9d9%2B8925uTfH7fPOz0PF7EuS7RfbMOrm9FCcmksVrThYVWaCcXD41fxJOy03JNrBrZR9f3XCAiRUm4ZYAfsjmOoKmQGlrMl7KufG2Ybc5oT2iQ6EfysHr214LRhBakJEqkS0eBRuY1ZifrZ%2FUms78QKKjMjRKUwhrlR3%2BsFw4UNe2hI613zKBWv6Ls6QEM5Cz4OlrGV9BJr8cjl%2FhYgd9EC0P1crUsjr6l2CvjQwourOywY6sQFxeWz2dD%2BgjhdoiUCe7RtxLngShIqjfDZ2YrUYtXq17orbGOmyKVazZpiSsYw%2FsdPxivFECOhkVAMXK4aZGrDe6D71BaZAr%2FxIBZ8ZQ2sd7ItmxrdMneRvJc9bVL1BNJGvmVprsl2RIuyq9Bi1TrBcsIv6%2FctfUityd0I8laH0c0pUriEi8chFQt5t4%2Fo4chACYVngQsZpQ6%2Fo%2BomqYasK6eT531ceTyfrkqbfVAGi6xI%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260123T190123Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYVNQ2DLN%2F20260123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=215396c18fb19ef37d5e15af47f75e7f8825649d9abce0fba159a7c3067d55b1&hash=95c74e9b2840a7b56f0813d14777a67de9e4ff9e31c8551165815f5a409e5915&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1574954125004224&tid=spdf-95f7689c-2da7-4642-a623-6c504202b65a&sid=58354b375ca9e041357b2736407426b4e52fgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=080a5d02515c590f545d&rr=9c298a1278cbd4d1&cc=nl
+Models: EfficientNetV2 (cover-trained) and ConvNeXt & EfficientNetV2 (zero shot) instead of ResNet50
+I would be curious to these performances compare to a vision transformer classifier like ViT https://arxiv.org/pdf/2010.11929 (or object detection RT-DETR https://arxiv.org/pdf/2304.08069).
+  average prediction ensamble EfficientNetV2: models trained for 10, 20 and 40 epochs. How did you know this was a optimal training range? Why didn't you test beyond this range? Eg. Train beyond 40 epochs?
+Future work: Adapting segmentation techniques, such as mask component SAM (object masks) to better handle occlusion revealing characteristics,recover "hidden shape", especially for phenology characteristics (flowering/scent) who are often rare in data .
+SegmentAnything encoder: prompt embedding & image embedding decoder masking https://arxiv.org/pdf/2304.02643
 
-Paper PlantCAPNet: https://pdf.sciencedirectassets.com/273474/1-s2.0-S1574954125X00029/1-s2.0-S1574954125004224/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDIaCXVzLWVhc3QtMSJHMEUCIHZgZ%2FhfSaeE8ObdeyRobqpThSi39J8PVvLS5DRN35uaAiEAwlrTgG7zWo0yC0J43g0oyltrzGiZeFqJBs5vsuCsg%2BwquwUI%2B%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDKeF5yfYn0RZr9CBhSqPBZIB8jCDmCd7rTFdKQkeDqG4N7T6rB%2B7jNOcOWWy5%2FUxvqSPlVxyD8sBxSVLZv5nX0L6Q8Xf6dcZREaxDlpsMbOlE0qOJkf16CtFVrhRJBpC%2BC8nnP09sK%2FyJgUxEaITMpPi%2B7ADk1xqXgnaucpWD30bwhUl%2FbimlpYHTmtcgqRDkWbeIFHoRINSvGl9yfnwQv3GV52xqP477flyJs6K5hJtJMLGJqqAlZ8Z1x9%2BHZIipqmLQOWM9Q%2B5f9%2BhVir7iJD3FCkPJIVy5sLvbRnWjk1HQkyLsc%2FynEdhtlhNGx%2Bxy3bTTDul6NWszcw4ogICqG7RrD24BUv601ajkWgt6JPw89cldnO6P%2FMETtTUZ4UO07vil7wtjR4g3lAHZaHq77v9VFBRDI%2BC8BrUpUy5n%2FtQ808WO8u7lfHIDgJF8QvsxhZkggoelP6OeJweNydJgeapVe1U4UQtzjER%2B5RYCrVoptR9372wiZjcfWW%2F3by1lXh7hBLMsF9uOGA3HKDgeyageN27mNnYrPKROjcZnGsNWdsQbDZgtSKYDVEeep86XmrDVI7zEF%2BkGC2cM8zPeu1wwb68SNtdcg2MoSZKlPO6isLVqfzgT%2Frke49bmWobwpXtQv65bgIirIg77g6lNStU9d9%2B8925uTfH7fPOz0PF7EuS7RfbMOrm9FCcmksVrThYVWaCcXD41fxJOy03JNrBrZR9f3XCAiRUm4ZYAfsjmOoKmQGlrMl7KufG2Ybc5oT2iQ6EfysHr214LRhBakJEqkS0eBRuY1ZifrZ%2FUms78QKKjMjRKUwhrlR3%2BsFw4UNe2hI613zKBWv6Ls6QEM5Cz4OlrGV9BJr8cjl%2FhYgd9EC0P1crUsjr6l2CvjQwourOywY6sQFxeWz2dD%2BgjhdoiUCe7RtxLngShIqjfDZ2YrUYtXq17orbGOmyKVazZpiSsYw%2FsdPxivFECOhkVAMXK4aZGrDe6D71BaZAr%2FxIBZ8ZQ2sd7ItmxrdMneRvJc9bVL1BNJGvmVprsl2RIuyq9Bi1TrBcsIv6%2FctfUityd0I8laH0c0pUriEi8chFQt5t4%2Fo4chACYVngQsZpQ6%2Fo%2BomqYasK6eT531ceTyfrkqbfVAGi6xI%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260123T190123Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYVNQ2DLN%2F20260123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=215396c18fb19ef37d5e15af47f75e7f8825649d9abce0fba159a7c3067d55b1&hash=95c74e9b2840a7b56f0813d14777a67de9e4ff9e31c8551165815f5a409e5915&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1574954125004224&tid=spdf-95f7689c-2da7-4642-a623-6c504202b65a&sid=58354b375ca9e041357b2736407426b4e52fgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=080a5d02515c590f545d&rr=9c298a1278cbd4d1&cc=nl
-Models used, EfficientNetV2 and ConvNeXt (replacing the ResNet50)
-I saw in the paper that you used average prediction ensamble of EfficientNetV2  models trained for 10, 20 and 40 epochs. 
-How did you know this was a optimal training range? Why didn't you test beyond this range? Eg. Train beyond 40 epochs?
-"Model architecture can be improved with more sophisticated loss functions" What loss function was used?
-Future work: 
-Problem occlusion and phenology characteristics (flowering/scent) are often rare in data. Including a mask component via SAM might reveal these characteristics better. 
-"adapting amodal segmentation techniques (Zhan et al., 2020; Ling et al., 2020; Liu et al.,2024) to better handle occlusion.
-"by extending zero-shot prediction to phenology by combining models like SAM (Kirillov et al., 2023) with Grounding DINO (Liu et al., 2025; Ren et al., 2024)."
-Later added: read in on SegmentAnything https://arxiv.org/pdf/2304.02643
+research plans: https://inf-cv.uni-jena.de/home/staff/denzler/
+#### P2 - image and text input bird classifier ###
+Cascaded Vision Language Models https://arxiv.org/pdf/2405.11301
+Stage 1 CLIP (https://arxiv.org/pdf/2103.00020): 
+- calc similariyty score [0.82, 0.45, 0.50, ..] using: input bird image. Using img embed + text embed to 
+Stage 2 LVLM :
+- img embed (like in stage1) + LLM (Llama) generates language output <- allign both!
+- Because you don't have 'image -> classes' but img embedding and text embedding, model can do: I learned what birds, cats, and dogs look like in general. Now, if you describe a new bird, I can find the image that matches your description—even if I never saw that exact species.
+- LVLM input image + text prompt, output text
+- This image shows a plant that could be either watercress or garden cress. Describe the key visual differences you see, then tell me which one it is more likely to be.
 
-# research plans -> https://inf-cv.uni-jena.de/home/staff/denzler/ 
-# image and text input bird classifier
-# X CLIP https://arxiv.org/pdf/2103.00020 # input bird image. Using img embed + text embed to calc similariyty score [0.82, 0.45, 0.50, ..]
-Because you don't have 'image -> classes' but img embedding and text embedding, model can do: I learned what birds, cats, and dogs look like in general. Now, if you describe a new bird, I can find the image that matches your description—even if I never saw that exact species.
-Cascaded Vision Language Models https://arxiv.org/pdf/2405.11301 # LVLM input image + text prompt, output text
+#### P3 - Insect Monitoring ###
+importance of high resolution
+Comparison of:
+ - YOLOv9 -> https://arxiv.org/pdf/2510.09653v2 
+ - Single Shot MultiBox Detector -> https://arxiv.org/pdf/1512.02325
 
-
-# Insect Monitoring
-X YOLOv9 -> https://arxiv.org/pdf/2510.09653v2 vs. X Single Shot MultiBox Detector -> https://arxiv.org/pdf/1512.02325
-
-
-# RT-DETR-style models -> https://arxiv.org/pdf/2304.08069
-
-
-
-
-
+### Remaining ###
 Saccadic Vision for Fine-Grained Visual Classification
 https://arxiv.org/pdf/2509.15688
 Suggested gtp:
