@@ -158,12 +158,18 @@ Later added: read in on SegmentAnything https://arxiv.org/pdf/2304.02643
 
 # research plans -> https://inf-cv.uni-jena.de/home/staff/denzler/ 
 # image and text input bird classifier
-Cascaded Vision Language Models https://arxiv.org/pdf/2405.11301
-# insect classifier
+# X CLIP https://arxiv.org/pdf/2103.00020 # input bird image. Using img embed + text embed to calc similariyty score [0.82, 0.45, 0.50, ..]
+Because you don't have 'image -> classes' but img embedding and text embedding, model can do: I learned what birds, cats, and dogs look like in general. Now, if you describe a new bird, I can find the image that matches your description—even if I never saw that exact species.
+Cascaded Vision Language Models https://arxiv.org/pdf/2405.11301 # LVLM input image + text prompt, output text
 
-# study this one too CLIP -> https://arxiv.org/pdf/2103.00020
 
-YOLOv9 -> https://arxiv.org/pdf/2510.09653v2 vs. Single Shot MultiBox Detector -> https://arxiv.org/pdf/1512.02325
+# Insect Monitoring
+X YOLOv9 -> https://arxiv.org/pdf/2510.09653v2 vs. X Single Shot MultiBox Detector -> https://arxiv.org/pdf/1512.02325
+
+
+# RT-DETR-style models -> https://arxiv.org/pdf/2304.08069
+
+
 
 
 
