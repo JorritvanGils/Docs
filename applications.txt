@@ -137,6 +137,24 @@ Photogrammetry
 https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.13298 # Estimating body mass of free‐living whales
 file:///home/jorrit/Downloads/remotesensing-12-03886.pdf
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 26 - 27 - 28 - Joachim Denzler
 I'm a machine learning engineer with 5 years hands on experience in deep learning, constantly seeking linking with academic knowledge.  
 
@@ -161,9 +179,9 @@ research plans: https://inf-cv.uni-jena.de/home/staff/denzler/
 #### P2 - image and text input bird classifier ###
 Cascaded Vision Language Models https://arxiv.org/pdf/2405.11301
 Stage 1 CLIP (https://arxiv.org/pdf/2103.00020): 
-- calc similariyty score [0.82, 0.45, 0.50, ..] using: input bird image. Using img embed + text embed to 
+- calc similariyty score [0.82, 0.45, 0.50, ..] using: input bird image. Using img embed + text embed
 Stage 2 LVLM :
-- img embed (like in stage1) + LLM (Llama) generates language output <- allign both!
+- img embed (like in stage1) + LLM (Qwen/Llama) generates language output <- allign both!
 - Because you don't have 'image -> classes' but img embedding and text embedding, model can do: I learned what birds, cats, and dogs look like in general. Now, if you describe a new bird, I can find the image that matches your description—even if I never saw that exact species.
 - LVLM input image + text prompt, output text
 - This image shows a plant that could be either watercress or garden cress. Describe the key visual differences you see, then tell me which one it is more likely to be.
