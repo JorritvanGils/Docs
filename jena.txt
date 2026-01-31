@@ -1,4 +1,30 @@
 ### MOTHS ### 
+
+Extra notes:
+- before meeting:
+  - increase cursor size (settings-> accessibility). 
+  - drag pop up to side to see audience
+- YouthBoard begin and end year. 
+- Practice the start
+  - Write out. 
+- Ambitions:
+ - write out 3 looking and 3 bring. 
+ - practice this job
+ - link to the job
+
+  Don't touch your hair. 
+
+  # existing literature:
+  In the time I had to prepare this presentation, I delved into research that has already been done and saw that mothector.
+  Of course, I don't know exactly how things stand, but these are some possible ideas from me
+
+  we want to know -> they want to know. Don't say you're on the project. 
+  bittensor was a big challenge -> bittensor is a big challenge. 
+
+  After the skills. 
+  I would find it a great challenge to take part in this amazing project. 
+  I see it as an excellent opportunity to share my knowledge.
+
 - https://lepmon.de/en/lepmon-en/ # LAPMON Webpage
 - https://inf-cv.uni-jena.de/home/publications/  # Research Group Computer Vision Jena
 - https://arxiv.org/pdf/2307.15427 # Encoutered existing paper: Deep Learning Pipeline for Automated Visual Moth Monitoring: Insect Localization and Species Classification
@@ -53,15 +79,13 @@ apply a mask to x and the opposite to xˆ
  d
 
 
-
-
 # Prepare papers:
 # slide build up on existing research
 - 1. transformer architectures
     - Transformers for image recognition: https://arxiv.org/pdf/2010.11929, AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
     - RT-DETR: https://arxiv.org/abs/2304.08069
 - 2. NLP support
-    - CLIP, https://arxiv.org/pdf/2103.00020, Learning Transferable Visual Models From Natural Language Supervision
+    - CLIP = Contrastive Language-Image Pre-training, https://arxiv.org/pdf/2103.00020, Learning Transferable Visual Models From Natural Language Supervision
     - Cascaded Vision Language Models https://arxiv.org/pdf/2405.11301
 - 3. Interpretation and pixel masking
     - FIDO (Fill-In the DropOut): https://arxiv.org/pdf/1807.08024, used a generative model to generate in-fills pixels consistent with the surroundings. 
