@@ -13,7 +13,6 @@ I see it as an excellent opportunity to share my knowledge.
 - https://inf-cv.uni-jena.de/home/publications/  # Research Group Computer Vision Jena
 - https://arxiv.org/pdf/2307.15427 # Encoutered existing paper: Deep Learning Pipeline for Automated Visual Moth Monitoring: Insect Localization and Species Classification
 
-
 Read FIDO before: Explaining image classifiers by counterfactual generation Chang et al. (2018) -> https://arxiv.org/pdf/1807.08024
 https://link.springer.com/article/10.1007/s11263-025-02453-z
 Simplified Concrete Dropout - Improving the Generation of Attribution Masks for Fine-grained Classification
@@ -33,7 +32,7 @@ Variance issue: drop critical pixel -> big loss, keeping it, no loss. Noisy grad
 
 3 CNNS: 
 - ResNet50
-- Inveption V3
+- Inception V3
 - ConvNeXt-B
 
 Concrete dropout:
