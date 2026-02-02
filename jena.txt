@@ -1,29 +1,13 @@
 ### MOTHS ### 
-
-Extra notes:
 - before meeting:
   - increase cursor size (settings-> accessibility). 
   - drag pop up to side to see audience
-- YouthBoard begin and end year. 
-- Practice the start
-  - Write out. 
-- Ambitions:
- - write out 3 looking and 3 bring. 
- - practice this job
- - link to the job
-
   Don't touch your hair. 
-
-  # existing literature:
-  In the time I had to prepare this presentation, I delved into research that has already been done and saw that mothector.
-  Of course, I don't know exactly how things stand, but these are some possible ideas from me
-
-  we want to know -> they want to know. Don't say you're on the project. 
-  bittensor was a big challenge -> bittensor is a big challenge. 
-
-  After the skills. 
-  I would find it a great challenge to take part in this amazing project. 
-  I see it as an excellent opportunity to share my knowledge.
+we want to know -> they want to know. Don't say you're on the project. 
+bittensor was a big challenge -> bittensor is a big challenge. 
+After skills slide. 
+I would find it a great challenge to take part in this amazing project. 
+I see it as an excellent opportunity to share my knowledge.
 
 - https://lepmon.de/en/lepmon-en/ # LAPMON Webpage
 - https://inf-cv.uni-jena.de/home/publications/  # Research Group Computer Vision Jena
