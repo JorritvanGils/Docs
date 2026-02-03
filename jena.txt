@@ -19,7 +19,7 @@ Simplified Concrete Dropout - Improving the Generation of Attribution Masks for 
 Interpretation: What if 2 species look very similar?
 problem is that most Attribution methods (attention, gradient) not able to display relevant regsions as accurate (scale up, vs. irrelevant areas) 
 
-
+f
 FIDO = fill-in of the dropout
 
 Fine-Grained = classification with small and subtle differences
