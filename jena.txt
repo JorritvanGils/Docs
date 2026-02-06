@@ -75,3 +75,12 @@ apply a mask to x and the opposite to xˆ
       - https://github.com/zphang/saliency_investigation
     - Simplified Concrete Dropout: https://arxiv.org/pdf/2307.14825, Improving the Generation of Attribution Masks for Fine-grained Classification
 
+
+
+
+Existing organisations for moth recognition recommended by Patrick:
+- ARISE
+- Observation.org
+
+Cigna:
+- 30 Apr 2026 (Renewal date)
