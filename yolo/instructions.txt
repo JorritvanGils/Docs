@@ -1,0 +1,22 @@
+python3.10 -m venv .venv
+pip install ultralytics
+
+mkdir yolo
+# Download the NID dataset
+git clone git@github.com:cvjena/nid-dataset.git
+
+# verify 'root' and 'yolo_root' in convert_to_yolo.py
+python convert_to_yolo.py
+
+yolo/
+ ├── images/
+ │    ├── train/
+ │    └── val/        (or test/)
+ ├── labels/
+ │    ├── train/
+ │    └── val/
+ └── data.yaml
+
+
+
+

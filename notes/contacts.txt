@@ -1,0 +1,187 @@
+Other options:
+- LinkedIn
+- PrimeIntellect
+
+Companies:
+- Google (Erik)
+- Meta
+- OpenAI (london)
+- DeepMind
+- HuggingFace
+- Matthijs Damen, Avy, Haarlem, Netherlands (Head of Tech, DC5 – Calm Drones)
+
+Open PhD applications:
+Application 1
+Location: Glasgow, UK
+Deadline: 9th january (expired)
+Actions: Slack Tiffany Vlaar = X, email r.mccrea@lancaster.ac.uk = X
+Scalable Deep Learning for Biodiversity Monitoring under Real-World Constraints
+Tiffany Vlaar
+https://www.exageo.org/phd-student-projects/
+
+Application 2 - COMPLETED
+Location: Wyoming, USA
+Intersection of computer vision and wildlife
+Deadline: 23th januari
+https://kogerlab.com/post/positions/apply 
+https://forms.gle/Xqrge1zhLFLdrWDq5
+
+Application 3
+Location: Umeå, Sweden
+PhD position in bioacoustics, statistics, and AI for forest biodiversity
+https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand5/
+
+XXX CV (max 3 pages, Arial or Times New Roman, min size 11) with:
+  Education, Work experience, Research interests, Awards, Publications, Presentations and conferences, Software and computing skills, Languages
+XXX Contact details for at least 2 references
+XXX Motivation letter (max 2 pages, Arial or Times New Roman, min size 11) explaining your qualifications and interest in the PhD project.
+XXX Degree certificates and transcripts from all previous first- and second-cycle studies.
+XXX - References: Contact information for at least two personal references.
+XXX Proof of English proficiency (if applicable, per SLU requirements).
+XXX For interview stage only: Attested copies of certificates, transcripts, and, if not Swedish, passport photo page.
+
+  ADD TO LINKEDIN
+
+# Known contacts:
+- Devis Tuia, devis.tuia@epfl.ch, EPFL, Switzerland, 
+  - Kellenberg, b.kellenberger@ucl.ac.uk, London
+  - Malte Pedersen -> https://www.vacancies.aau.dk/phd-positions 
+    - Trento, Fabio Remondino remondino@fbk.eu
+    - Lukas Picek
+    - Sara Beery
+    - Gert-Kootstra
+    - Helena Russeloo
+- Fabio Poiesi, poiesi@fbk.eu (https://tev.fbk.eu/)
+
+
+# WildDrone contacts:
+  - WildDrone, WildDrone@sdu.dk 
+- Anders Lyhne Christensen, andc@mmmi.sdu.dk, University of Southern Denmark (Professor, DC6 – Automated Planning)
+  - Andrea Flack, aflack@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Group Leader, DC2 – Migration Analysis & DC8 – Detailed Census)
+- Andrea Micheli, amicheli@fbk.eu, Bruno Kessler Foundation, Italy (Researcher, DC9 – Individual Characteristics)
+- Benjamin Risse, b.risse@uni-muenster.de, University of Münster, Germany (Professor, DC9 – Individual Characteristics & DC10 – Habitat Reconstruction)
+- Blair Costelloe, blair.costelloe@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Postdoctoral Researcher, DC1 – Livestock-wildlife Interaction, DC3 – Predator-prey Response, DC4 – Coastal Monitoring, DC11 – Interactive Census)
+  - Henrik Skov Midtiby, hemi@mmmi.sdu.dk, University of Southern Denmark (Associate Professor, DC8 – Real-Time Census)
+  - Magnus Wahlberg, Magnus@biology.sdu.dk, University of Southern Denmark (Associate Professor, DC4 – Coastal Monitoring & DC8 – Detailed Census)
+  - Majid Mirmehdi, M.Mirmehdi@cs.bris.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking)
+  - Martin Wikelski, sknopf@ab.mpg.de, Max Planck Institute of Animal Behavior / Konstanz (Professor, DC1 – Livestock-wildlife Interaction)
+  - Tilo Burghardt, tilo@cs.bris.ac.uk, University of Bristol, UK (Senior Lecturer, DC12 – Adaptive Tracking)
+  - Tom Richardson, Thomas.Richardson@bristol.ac.uk, University of Bristol, UK (Professor, DC12 – Adaptive Tracking & DC13 – Parasitic Drones)
+  - Ulrik Pagh Schultz Lundquist, ups@mmmi.sdu.dk, University of Southern Denmark (Professor, DC3 – Predator-prey Response, DC5 – Calm Drones, DC6 – Automated Planning, DC7 – Flexible Deployment)
+
+ 
+# Contacts from overview_academic_labs.XLSX
+  - Toke Høye, tth@ecos.au.dk, Aarhus University, Denmark, https://sites.google.com/site/hoyelab/, Image-based tools for identifying and monitoring insects and flowers and biotic interactions between them with the use of computer vision and deep learning. A lot of work in the Arctic.
+  - Jan Dirk Wegner, jandirk.wegner@uzh.ch, ETH/U Zurich, https://prs.igp.ethz.ch/ecovision.html, urban forests, remote sensing
+    Just keep track of job postings on the UZH Job portal and our EcoVision Lab website
+    - https://www.uzh.ch/en/explore/work/jobs.html
+    - EcoVision dm3l lab page (seems not to work) they mention have a grant. 
+  - Karen Joyce, karen.joyce@jcu.edu.au, James Cook University,  https://research.jcu.edu.au/portfolio/karen.joyce/, Remote sensing, aerial (UAV) monitoring, counting sea cucumbers & other indicators of oceanic/coastal  environments for temporal ecosystem surveys
+  - Michael Black, black@tuebingen.mpg.de, MPI/Tubingen, Animal modeling in 3D, pose, https://ps.is.mpg.de/~black
+  - Andrew Zisserman, andrew.zisserman@eng.ox.ac.uk, Oxford, multimodal behavior categorization, re-identification, https://www.robots.ox.ac.uk/~vgg/index.html
+  - Serge Belongie, s.belongie@di.ku.dk, U Copenhagen, Fine-grained categorization, AR/VR, https://twitter.com/belongielab
+  - Enrico Di Minin, enrico.di.minin@helsinki.fi, U Helsinki, Machine Learning to analyse wildlife trade, people-nature interactions and other conservation issues, https://www2.helsinki.fi/en/researchgroups/helsinki-lab-of-interdisciplinary-conservation-science/research
+  - Joachim Denzler, joachim.denzler@uni-jena.de, U Jena Germany, Species identification and individual re-identification in images, https://www.inf-cv.uni-jena.de/denzler#cv-ml
+  - Benno Simmons, B.Simmons2@exeter.ac.uk, University of Exeter England, https://www.bennosimmons.com/ Computer vision for camera traps, ecological networks, remote sensing (e.g. forecasting deforestation from satellite imagery), movement ecology, bioacoustic monitoring, general large data ecology/conservation things 
+  - emmanuel dufourq, Machine learning research for conservation ecology http://emmanueldufourq.com/wp/, University of Northern Iowa, https://chas.uni.edu/directory/emmanuel-dufourq#emailDirectory 
+  - Frank Schindler, f.schindler@imperial.ac.uk, University of Bonn, schindl@cs.uni-bonn.de 
+  - Dan Stowell, D.Stowell@tilburguniversity.edu, Associate Professor of AI & Biodiversity http://www.mcld.co.uk/research/, https://www.tilburguniversity.edu/staff/d-stowell 
+
+Linkedin message for remote job:
+
+Papers:
+
+
+https://www.findaphd.com/phds/project/ai-integrated-network-ecosystem-models-for-predicting-biodiversity-change/?p192305
+
+# WildBotics, https://www.wildbotics.eu/, follow on linkedin and keep eye on second round. 
+
+########### Opportunities ############
+# PhD Sweden Umeå
+
+# PhD Ben Koger Wyoming
+- read wildlife papers:
+  - https://www.readcube.com/articles/10.3389/frobt.2025.1695319 # WildDrone
+  - https://scholar.google.com/citations?user=auNWHhUAAAAJ&hl=en # his Scholar profile
+- https://migrationinitiative.org/ (some more cool videos)
+https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/wsb.1533
+https://arxiv.org/pdf/2206.00274
+https://www.sciencedirect.com/science/article/pii/S1574954125003966?via%3Dihub
+https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.13904 # his most cited paper
+
+# 17 feb - Zoom with Benjamin Risse :
+https://isprs-archives.copernicus.org/articles/XLVIII-2-2024/379/2024/isprs-archives-XLVIII-2-2024-379-2024.pdf # 3D Poses Animals
+he is actually mention in WildDrone paper P16 (Risse et al., 2018), read again (https://www.readcube.com/articles/10.3389/frobt.2025.1695319)!
+file:///home/jorrit/Downloads/remotesensing-12-03886.pdf # got this one from WildDrones, but probably nice to read for this talk. 
+https://arxiv.org/pdf/2206.00274 # points better then yolo (from wilddrones)
+Photogrammetry
+https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.13298 # Estimating body mass of free‐living whales
+file:///home/jorrit/Downloads/remotesensing-12-03886.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 26 - 27 - 28 - Joachim Denzler
+I'm a machine learning engineer with 5 years hands on experience in deep learning, constantly seeking linking with academic knowledge.  
+
+### THESIS ###
+I cited your (Denzler) paper in my 2022 thesis on: automated visual monitoring of individual: chimpanzees (2016), gorillas (2017) and elephants (2018)
+### ELLIS ###
+in 2021 I applied for the ELLIS PhD program 12 on "computer vision, earth and climate science" How is Ellis program integrated in your research group?
+### Q1 ###
+What are the cooperation possibilities between (PhD) students and groups at University in Jena. 
+What qualities have you seen in successful PhD students in your group?
+Jena seems like a very beautiful city with a strong research community. 
+
+#### P1 - PlantCAPNet ###
+https://pdf.sciencedirectassets.com/273474/1-s2.0-S1574954125X00029/1-s2.0-S1574954125004224/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDIaCXVzLWVhc3QtMSJHMEUCIHZgZ%2FhfSaeE8ObdeyRobqpThSi39J8PVvLS5DRN35uaAiEAwlrTgG7zWo0yC0J43g0oyltrzGiZeFqJBs5vsuCsg%2BwquwUI%2B%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDKeF5yfYn0RZr9CBhSqPBZIB8jCDmCd7rTFdKQkeDqG4N7T6rB%2B7jNOcOWWy5%2FUxvqSPlVxyD8sBxSVLZv5nX0L6Q8Xf6dcZREaxDlpsMbOlE0qOJkf16CtFVrhRJBpC%2BC8nnP09sK%2FyJgUxEaITMpPi%2B7ADk1xqXgnaucpWD30bwhUl%2FbimlpYHTmtcgqRDkWbeIFHoRINSvGl9yfnwQv3GV52xqP477flyJs6K5hJtJMLGJqqAlZ8Z1x9%2BHZIipqmLQOWM9Q%2B5f9%2BhVir7iJD3FCkPJIVy5sLvbRnWjk1HQkyLsc%2FynEdhtlhNGx%2Bxy3bTTDul6NWszcw4ogICqG7RrD24BUv601ajkWgt6JPw89cldnO6P%2FMETtTUZ4UO07vil7wtjR4g3lAHZaHq77v9VFBRDI%2BC8BrUpUy5n%2FtQ808WO8u7lfHIDgJF8QvsxhZkggoelP6OeJweNydJgeapVe1U4UQtzjER%2B5RYCrVoptR9372wiZjcfWW%2F3by1lXh7hBLMsF9uOGA3HKDgeyageN27mNnYrPKROjcZnGsNWdsQbDZgtSKYDVEeep86XmrDVI7zEF%2BkGC2cM8zPeu1wwb68SNtdcg2MoSZKlPO6isLVqfzgT%2Frke49bmWobwpXtQv65bgIirIg77g6lNStU9d9%2B8925uTfH7fPOz0PF7EuS7RfbMOrm9FCcmksVrThYVWaCcXD41fxJOy03JNrBrZR9f3XCAiRUm4ZYAfsjmOoKmQGlrMl7KufG2Ybc5oT2iQ6EfysHr214LRhBakJEqkS0eBRuY1ZifrZ%2FUms78QKKjMjRKUwhrlR3%2BsFw4UNe2hI613zKBWv6Ls6QEM5Cz4OlrGV9BJr8cjl%2FhYgd9EC0P1crUsjr6l2CvjQwourOywY6sQFxeWz2dD%2BgjhdoiUCe7RtxLngShIqjfDZ2YrUYtXq17orbGOmyKVazZpiSsYw%2FsdPxivFECOhkVAMXK4aZGrDe6D71BaZAr%2FxIBZ8ZQ2sd7ItmxrdMneRvJc9bVL1BNJGvmVprsl2RIuyq9Bi1TrBcsIv6%2FctfUityd0I8laH0c0pUriEi8chFQt5t4%2Fo4chACYVngQsZpQ6%2Fo%2BomqYasK6eT531ceTyfrkqbfVAGi6xI%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260123T190123Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYVNQ2DLN%2F20260123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=215396c18fb19ef37d5e15af47f75e7f8825649d9abce0fba159a7c3067d55b1&hash=95c74e9b2840a7b56f0813d14777a67de9e4ff9e31c8551165815f5a409e5915&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1574954125004224&tid=spdf-95f7689c-2da7-4642-a623-6c504202b65a&sid=58354b375ca9e041357b2736407426b4e52fgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=080a5d02515c590f545d&rr=9c298a1278cbd4d1&cc=nl
+Models: EfficientNetV2 (cover-trained) and ConvNeXt & EfficientNetV2 (zero shot) instead of ResNet50
+I would be curious to these performances compare to a vision transformer classifier like ViT https://arxiv.org/pdf/2010.11929 (or object detection RT-DETR https://arxiv.org/pdf/2304.08069).
+  average prediction ensamble EfficientNetV2: models trained for 10, 20 and 40 epochs. How did you know this was a optimal training range? Why didn't you test beyond this range? Eg. Train beyond 40 epochs?
+Future work: Adapting segmentation techniques, such as mask component SAM (object masks) to better handle occlusion revealing characteristics,recover "hidden shape", especially for phenology characteristics (flowering/scent) who are often rare in data .
+SegmentAnything encoder: prompt embedding & image embedding decoder masking https://arxiv.org/pdf/2304.02643
+
+research plans: https://inf-cv.uni-jena.de/home/staff/denzler/
+#### P2 - image and text input bird classifier ###
+Cascaded Vision Language Models https://arxiv.org/pdf/2405.11301
+Stage 1 CLIP (https://arxiv.org/pdf/2103.00020): 
+- calc similariyty score [0.82, 0.45, 0.50, ..] using: input bird image. Using img embed + text embed
+Stage 2 LVLM :
+- img embed (like in stage1) + LLM (Qwen/Llama) generates language output <- allign both!
+- Because you don't have 'image -> classes' but img embedding and text embedding, model can do: I learned what birds, cats, and dogs look like in general. Now, if you describe a new bird, I can find the image that matches your description—even if I never saw that exact species.
+- LVLM input image + text prompt, output text
+- This image shows a plant that could be either watercress or garden cress. Describe the key visual differences you see, then tell me which one it is more likely to be.
+
+#### P3 - Insect Monitoring ###
+importance of high resolution
+Comparison of:
+ - YOLOv9 -> https://arxiv.org/pdf/2510.09653v2 
+ - Single Shot MultiBox Detector -> https://arxiv.org/pdf/1512.02325
+
+### Remaining ###
+Saccadic Vision for Fine-Grained Visual Classification
+https://arxiv.org/pdf/2509.15688
+Suggested gtp:
+Image classification with small datasets: Overview and benchmark (2022)
+Occlusion-robustness of CNNs via inverted cutout (2022)
+FastCAV: Efficient Concept Activation Vectors (2025)
+Mitigating Spurious Correlations in Patch-wise Tumor Classification (2025)
+
+ 
+
+

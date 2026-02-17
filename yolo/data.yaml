@@ -1,0 +1,8 @@
+path: /media/jorrit/ssd/career/docs/yolo
+train: images/train
+val: images/val
+
+names:
+  0: moth
+
+
