@@ -2,11 +2,7 @@ Step 0) clone Docs (TODO: rename to proper repo)
 git clone git@github.com:JorritvanGils/Docs.git
 cd Docs/yolo
 
-Step 1) download the NID dataset
-
-git clone git@github.com:cvjena/nid-dataset.git
-
-Step 2) create venv
+Step 1) create venv
 sudo apt update && sudo apt upgrade -y
 apt install python3-venv -y && \
 apt install software-properties-common -y && \
@@ -16,9 +12,11 @@ python3.10 -m venv .venv
 source .venv/bin/activate
 pip install ultralytics
 
-Step 3) convert dataset to YOLO format
-python scripts/convert_to_yolo.py
+Step 2) download dataset and convert to YOLO format
 
+# NID dataset
+git clone git@github.com:cvjena/nid-dataset.git
+python scripts/nid_to_yolo.py
 Result:
 yolo/
  ├── images/
@@ -28,6 +26,15 @@ yolo/
  │    ├── train/
  │    └── val/
  └── data.yaml
+
+ # EU-Moths Dataset
+git clone git@github.com:cvjena/eu-moths-dataset.git
+python scripts/eu_to_yolo.py
+
+
+# keep in mind:
+- directories images + labels should be initially removed and re-created. 
+- data.yaml classes should be updated. 
 
 Step 4) inference
 # choose between pre-trained or custom model (if trained)
@@ -46,8 +53,13 @@ ssh -A -p 50328 root@220.82.46.3 -L 8080:localhost:8080
 repeat steps 0 - 3
 sed -i "s|/media/jorrit/ssd/career/docs/yolo|/workspace/Docs/yolo|g" data.yaml
 then run:
-
 python scripts/train_gpu.py
+
+cd /media/jorrit/ssd/career/docs/yolo
+cd /media/jorrit/ssd/career/docs
+scp -P 51703 root@220.82.46.3:/workspace/Docs/yolo/runs/inf/pretrained/car.jpg . # this syntax it should become
+scp -P 51703 root@220.82.46.3:/workspace/Docs/runs/detect/runs_cpu/test_run/BoxF1_curve.png .
+scp -P 51703 root@220.82.46.3:/workspace/Docs/runs/detect/runs_cpu/test_run/weights/best.pt .
 
 
 
