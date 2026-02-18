@@ -1,17 +1,20 @@
 from ultralytics import YOLO
 import os
 
-yolo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Resolve project root safely
+base_dir = os.path.dirname(os.path.abspath(__file__))
+yolo_root = os.path.abspath(os.path.join(base_dir, ".."))
 
 # image_path = os.path.join(yolo_root, "assets", "2020_08_08_Lichtfang_Hahnengrund_6729.JPG")
 image_path = os.path.join(yolo_root, "assets", "car.jpg")
 
 use_pretrained = True
-conf = 0.1 # 0.01 , 0.1, 0.25, 0.5, 0.75
+conf = 0.1  # 0.01 , 0.1, 0.25, 0.5, 0.75
 
 if use_pretrained:
-    model_name = "yolov8n.pt"  # choose between yolov8n.pt, yolov8s.pt, yolov8m.pt, yolov8l.pt, yolov8x.pt
-    model = YOLO(model_name)  # Load the pretrained YOLOv8n model
+    model_path = os.path.join(yolo_root, "yolov8n.pt")
+    model_name = "yolov8n.pt"
+    model = YOLO(model_path)
     save_name = "inf/pretrained"
 else:
     trained_model_path = os.path.join(
@@ -21,7 +24,7 @@ else:
     model_name = os.path.basename(trained_model_path)
     model = YOLO(trained_model_path)
     save_name = "inf/finetuned"
-    
+
 results = model.predict(
     image_path,
     conf=conf,
@@ -31,4 +34,3 @@ results = model.predict(
     name=save_name,
     exist_ok=True
 )
-

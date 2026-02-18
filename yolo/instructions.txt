@@ -17,7 +17,6 @@ source .venv/bin/activate
 pip install ultralytics
 
 Step 3) convert dataset to YOLO format
-# verify 'root' and 'yolo_root' in convert_to_yolo.py
 python scripts/convert_to_yolo.py
 
 Result:
@@ -33,6 +32,8 @@ yolo/
 Step 4) inference
 # choose between pre-trained or custom model (if trained)
 python scripts/inference.py
+cd /media/jorrit/ssd/career/docs/yolo
+scp -P 51703 root@220.82.46.3:/workspace/Docs/yolo/runs/inf/pretrained/car.jpg .
 
 Step 5) training custom model
 # cpu / laptop:
@@ -43,7 +44,7 @@ Rent GPU from VastAi
 paste the command in terminal:
 ssh -A -p 50328 root@220.82.46.3 -L 8080:localhost:8080
 repeat steps 0 - 3
-sed -i "s|/media/jorrit/ssd/career|$(pwd)|g" /media/jorrit/ssd/career/docs/yolo/data.yaml
+sed -i "s|/media/jorrit/ssd/career/docs/yolo|/workspace/Docs/yolo|g" data.yaml
 then run:
 
 python scripts/train_gpu.py

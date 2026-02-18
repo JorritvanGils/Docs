@@ -1,6 +1,10 @@
+import os
 from ultralytics import YOLO
 
 def main():
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    project_dir = os.path.join(base_dir, "..", "runs_cpu")
+
     model = YOLO("yolov8n.pt")
 
     model.train(
@@ -10,7 +14,7 @@ def main():
         batch=8,
         device="cpu",
         workers=2,
-        project="runs_cpu",
+        project=project_dir,
         name="test_run",
         exist_ok=True
     )
