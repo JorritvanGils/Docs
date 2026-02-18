@@ -7,6 +7,11 @@ Step 1) download the NID dataset
 git clone git@github.com:cvjena/nid-dataset.git
 
 Step 2) create venv
+sudo apt update && sudo apt upgrade -y
+apt install python3-venv -y && \
+apt install software-properties-common -y && \
+add-apt-repository ppa:deadsnakes/ppa -y && \
+apt install python3.10 python3.10-venv -y && \
 python3.10 -m venv .venv
 source .venv/bin/activate
 pip install ultralytics
@@ -37,7 +42,6 @@ python scripts/train_cpu.py
 Rent GPU from VastAi
 paste the command in terminal:
 ssh -A -p 50328 root@220.82.46.3 -L 8080:localhost:8080
-sudo apt update && sudo apt upgrade -y
 repeat steps 0 - 3
 sed -i "s|/media/jorrit/ssd/career|$(pwd)|g" /media/jorrit/ssd/career/docs/yolo/data.yaml
 then run:

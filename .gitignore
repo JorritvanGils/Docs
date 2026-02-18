@@ -1,5 +1,8 @@
+# git rm --cached yolov8n.pt
 yolo/images
 yolo/labels
 yolo/.venv
 yolo/runs
 yolo/nid-dataset
+yolo/*yolo*.pt
+
