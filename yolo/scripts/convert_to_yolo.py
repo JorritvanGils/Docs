@@ -19,7 +19,7 @@ for img_rel, is_train in zip(images, split):
     subset = "train" if is_train == 1 else "val"
 
     img_src = os.path.join(root, "images", img_rel)
-    print(f"Processing {img_src} for subset {subset}...")
+    # print(f"Processing {img_src} for subset {subset}...")
     img_name = os.path.basename(img_rel)
 
     img_dst = os.path.join(yolo_root, "images", subset, img_name)

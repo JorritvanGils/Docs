@@ -1,5 +1,5 @@
 yolo/images
 yolo/labels
-yolo/venv
+yolo/.venv
 yolo/runs
 yolo/nid-dataset

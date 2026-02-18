@@ -1,13 +1,21 @@
-python3.10 -m venv .venv
-pip install ultralytics
+Step 0) clone Docs (TODO: rename to proper repo)
+git clone git@github.com:JorritvanGils/Docs.git
+cd Docs/yolo
 
-mkdir yolo
-# Download the NID dataset
+Step 1) download the NID dataset
+
 git clone git@github.com:cvjena/nid-dataset.git
 
-# verify 'root' and 'yolo_root' in convert_to_yolo.py
-python convert_to_yolo.py
+Step 2) create venv
+python3.10 -m venv .venv
+source .venv/bin/activate
+pip install ultralytics
 
+Step 3) convert dataset to YOLO format
+# verify 'root' and 'yolo_root' in convert_to_yolo.py
+python scripts/convert_to_yolo.py
+
+Result:
 yolo/
  ├── images/
  │    ├── train/
@@ -16,6 +24,26 @@ yolo/
  │    ├── train/
  │    └── val/
  └── data.yaml
+
+Step 4) inference
+# choose between pre-trained or custom model (if trained)
+python scripts/inference.py
+
+Step 5) training custom model
+# cpu / laptop:
+python scripts/train_cpu.py
+
+# gpu:
+Rent GPU from VastAi
+paste the command in terminal:
+ssh -A -p 50328 root@220.82.46.3 -L 8080:localhost:8080
+sudo apt update && sudo apt upgrade -y
+repeat steps 0 - 3
+sed -i "s|/media/jorrit/ssd/career|$(pwd)|g" /media/jorrit/ssd/career/docs/yolo/data.yaml
+then run:
+
+python scripts/train_gpu.py
+
 
 
 
