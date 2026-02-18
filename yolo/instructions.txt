@@ -14,7 +14,9 @@ pip install ultralytics
 
 Step 2) download dataset and convert to YOLO format
 
-# NID dataset
+mkdir datasets && cd datasets
+
+# NID dataset (bounding box + classification mode!) 
 git clone git@github.com:cvjena/nid-dataset.git
 python scripts/nid_to_yolo.py
 Result:
@@ -27,7 +29,7 @@ yolo/
  │    └── val/
  └── data.yaml
 
- # EU-Moths Dataset
+ # EU-Moths Dataset (classification mode!) 
 git clone git@github.com:cvjena/eu-moths-dataset.git
 python scripts/eu_to_yolo.py
 

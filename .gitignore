@@ -1,8 +1,11 @@
 # git rm --cached yolov8n.pt
-yolo/images
-yolo/labels
+yolo/datasets/raw/nid-dataset
+yolo/datasets/raw/eu-moths-dataset
+yolo/datasets/nid_det/images
+yolo/datasets/nid_det/labels
 yolo/.venv
 yolo/runs
-yolo/nid-dataset
+
 yolo/*yolo*.pt
+
 

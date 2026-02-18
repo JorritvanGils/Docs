@@ -3,7 +3,7 @@ import os
 import shutil
 
 yolo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-root = os.path.join(yolo_root, "nid-dataset")
+root = os.path.join(yolo_root, "datasets", "raw", "nid-dataset")
 
 
 with open(os.path.join(root, "images.txt")) as f:
@@ -22,8 +22,8 @@ for img_rel, is_train in zip(images, split):
     # print(f"Processing {img_src} for subset {subset}...")
     img_name = os.path.basename(img_rel)
 
-    img_dst = os.path.join(yolo_root, "images", subset, img_name)
-    lbl_dst = os.path.join(yolo_root, "labels", subset, img_name.replace(".JPG", ".txt"))
+    img_dst = os.path.join(yolo_root, "datasets", "nid_det", "images", subset, img_name)
+    lbl_dst = os.path.join(yolo_root, "datasets", "nid_det", "labels", subset, img_name.replace(".JPG", ".txt"))
 
     os.makedirs(os.path.dirname(img_dst), exist_ok=True)
     os.makedirs(os.path.dirname(lbl_dst), exist_ok=True)
