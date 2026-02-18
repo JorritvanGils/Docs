@@ -1,4 +1,5 @@
-path: /media/jorrit/ssd/career/docs/yolo
+path: /media/jorrit/ssd/career/docs/yolo/datasets/nid_det
+# path: /media/jorrit/ssd/career/docs/yolo/datasets/eu_cls
 train: images/train
 val: images/val
 
