@@ -10,10 +10,11 @@ AUGMENT = False
 def main():
     yolo_root = Path(__file__).resolve().parent.parent
     
-    yaml_file = "nid_det.yaml" 
+    yaml_file = "nid_det.yaml" # nid_det.yaml or eu_cls.yaml
+    dataset_name = Path(yaml_file).stem
     model_path = yolo_root / f"yolov8{MODEL_SIZE}.pt"
     data_path = yolo_root / "configs" / yaml_file
-    project_dir = yolo_root / "runs" / "runs_gpu"
+    project_dir = yolo_root / "runs" / dataset_name / "runs_gpu"
 
     print(f"Working directory: {Path.cwd()}")
     print(f"Saving to: {project_dir}")

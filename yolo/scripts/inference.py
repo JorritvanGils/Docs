@@ -1,7 +1,6 @@
 from ultralytics import YOLO
 import os
 
-# Resolve project root safely
 base_dir = os.path.dirname(os.path.abspath(__file__))
 yolo_root = os.path.abspath(os.path.join(base_dir, ".."))
 
@@ -19,7 +18,8 @@ if use_pretrained:
 else:
     trained_model_path = os.path.join(
         yolo_root,
-        "runs/detect/runs_cpu/test_run/weights/best.pt"  # pick best.pt or last.pt
+        "runs/eu_cls/runs_cpu/test_run/weights/best.pt"
+        # "runs/nid_det/runs_cpu/test_run/weights/best.pt"
     )
     model_name = os.path.basename(trained_model_path)
     model = YOLO(trained_model_path)
