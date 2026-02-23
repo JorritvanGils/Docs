@@ -3,7 +3,7 @@ import os
 import shutil
 
 yolo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-root = os.path.join(yolo_root, "datasets", "raw", "nid-dataset")
+root = os.path.join(os.path.dirname(yolo_root), "orig_datasets", "nid-dataset")
 
 
 with open(os.path.join(root, "images.txt")) as f:

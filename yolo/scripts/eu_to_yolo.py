@@ -2,7 +2,7 @@ import os
 import shutil
 
 yolo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-root = os.path.join(yolo_root, "datasets", "raw", "eu-moths-dataset")
+root = os.path.join(os.path.dirname(yolo_root), "orig_datasets", "eu-moths-dataset")
 
 # Load metadata
 with open(os.path.join(root, "images.txt")) as f:
