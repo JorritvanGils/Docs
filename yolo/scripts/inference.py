@@ -5,8 +5,8 @@ import os
 base_dir = os.path.dirname(os.path.abspath(__file__))
 yolo_root = os.path.abspath(os.path.join(base_dir, ".."))
 
-# image_path = os.path.join(yolo_root, "assets", "2020_08_08_Lichtfang_Hahnengrund_6729.JPG")
-image_path = os.path.join(yolo_root, "assets", "car.jpg")
+image_path = os.path.join(yolo_root, "assets", "2020_08_08_Lichtfang_Hahnengrund_6729.JPG")
+# image_path = os.path.join(yolo_root, "assets", "car.jpg")
 
 use_pretrained = True
 conf = 0.1  # 0.01 , 0.1, 0.25, 0.5, 0.75

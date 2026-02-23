@@ -1,4 +1,4 @@
-import os
+from pathlib import Path
 from ultralytics import YOLO
 
 # Model options: 'n', 's', 'm', 'l', 'x'
@@ -8,20 +8,20 @@ EPOCHS = 1
 AUGMENT = False
 
 def main():
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    yolo_root = os.path.abspath(os.path.join(base_dir, ".."))
+    yolo_root = Path(__file__).resolve().parent.parent
+    
+    yaml_file = "nid_det.yaml" 
+    model_path = yolo_root / f"yolov8{MODEL_SIZE}.pt"
+    data_path = yolo_root / "configs" / yaml_file
+    project_dir = yolo_root / "runs" / "runs_gpu"
 
-    model_file = os.path.join(yolo_root, f"yolov8{MODEL_SIZE}.pt")
-    data_file = os.path.join(yolo_root, "data.yaml")
-    project_dir = os.path.join(yolo_root, "runs_gpu")
+    print(f"Working directory: {Path.cwd()}")
+    print(f"Saving to: {project_dir}")
 
-    print("Working directory:", os.getcwd())
-    print("Saving to:", project_dir)
-
-    model = YOLO(model_file)
+    model = YOLO(model_path)
 
     model.train(
-        data=data_file,
+        data=data_path,
         epochs=EPOCHS,
         imgsz=640,
         batch=BATCH_SIZE,
@@ -33,11 +33,11 @@ def main():
         exist_ok=True
     )
 
-    results = model.val(data=data_file)
-    print("Validation results:", results)
+    results = model.val(data=data_path)
+    print(f"Validation results: {results}")
 
     export_path = model.export(format="onnx", imgsz=640)
-    print("ONNX exported to:", export_path)
+    print(f"ONNX exported to: {export_path}")
 
 if __name__ == "__main__":
     main()

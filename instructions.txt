@@ -1,6 +1,6 @@
 Step 0) clone Docs (TODO: rename to proper repo)
 git clone git@github.com:JorritvanGils/Docs.git
-cd Docs/yolo
+cd Docs
 
 Step 1) create venv
 sudo apt update && sudo apt upgrade -y
@@ -39,6 +39,8 @@ python scripts/eu_to_yolo.py
 - data.yaml classes should be updated. 
 
 Step 4) inference
+cd yolo
+
 # choose between pre-trained or custom model (if trained)
 python scripts/inference.py
 cd /media/jorrit/ssd/career/docs/yolo

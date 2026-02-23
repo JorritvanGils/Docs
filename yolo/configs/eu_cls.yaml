@@ -1,0 +1,11 @@
+# New data.yaml for EU Moth Classification
+path: /media/jorrit/ssd/career/docs/yolo/datasets/eu_cls
+train: train
+val: val
+
+# The names must correspond to the folder names created by your script
+names:
+  0: Aglaope_infausta
+  1: Axia_teresta
+  2: Campaea_margaritata
+  # ... and so on for all species in class_names.txt
